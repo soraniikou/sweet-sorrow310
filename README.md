@@ -31,6 +31,17 @@ So this is for those hours. Not for crisis. For the long, soft, in-between time 
 
 The background slowly turns from night to dawn while you listen. You can press **Stop** at any time.
 
+
+1. 移ろいゆく夜明けの色
+![Screen Shot 1](スクリーンショット 2026-05-05 062331.png)
+
+2. 寄り添うメッセージ
+![Screen Shot 2](スクリーンショット 2026-05-05 062406.png)
+
+3. 静かな操作画面
+![Screen Shot 3](スクリーンショット 2026-05-05 062904.png)
+
+
 Tech
 
 - Single-file HTML, no framework
